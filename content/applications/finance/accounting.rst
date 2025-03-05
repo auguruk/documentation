@@ -47,6 +47,11 @@ accounts, smart matching suggestions, etc.
 
       Bank synchronization, reconciliation, and cash registers
 
+   .. card:: General Journals
+      :target: accounting/journals
+
+      General Journal entry & Transfers
+
    .. card:: Reporting
       :target: accounting/reporting
 
@@ -246,4 +251,5 @@ Configuration --> Settings --> Accounting Firms mode`. When enabled:
    accounting/vendor_bills
    accounting/payments
    accounting/bank
+   accounting/journals
    accounting/reporting
