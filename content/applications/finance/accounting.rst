@@ -47,6 +47,11 @@ accounts, smart matching suggestions, etc.
 
       Bank synchronization, reconciliation, and cash registers
 
+   .. card:: General Journals and Transfers
+      :target: accounting/journals
+
+      General Journal entry & Automated Journal Transfers
+
    .. card:: Reporting
       :target: accounting/reporting
 
